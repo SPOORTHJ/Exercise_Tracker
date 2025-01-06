@@ -1,0 +1,1 @@
+The Exercise Tracker is a robust web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It is designed to help users efficiently record and manage their fitness activities. This application allows users to create, view, edit, and delete records of their exercises, ensuring they stay on top of their fitness goals.
