@@ -1,10 +1,4 @@
-Fully functional exercise tracker app using MongoDB Atlas Express React Node js
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-### `npm start`
-<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The Exercise Tracker is a robust web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It is designed to help users efficiently record and manage their fitness activities. This application allows users to create, view, edit, and delete records of their exercises, ensuring they stay on top of their fitness goals.
 
 
  
